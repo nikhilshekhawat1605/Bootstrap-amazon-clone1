@@ -9,26 +9,26 @@
 • Product Page  
 • Contact Page
 
-Home Page 📷
+**Home Page 📷**
 
 ![Alt text](Home1.png.png)
 
-About Page 📷
+**About Page 📷**
 
 ![Alt text](About.png)
 
-Product Page 📷
+**Product Page 📷**
 
 ![Alt text](Product.png)
 
-Contact Page 📷
+**Contact Page 📷**
 
 ![Alt text](Contact1.png)
 
-Login Page 📷
+**Login Page 📷**
 
 ![Alt text](Login.png)
 
-Register page 📷
+**Register page 📷**
 
 ![Alt text](Register.png)
