@@ -1,3 +1,3 @@
-# Bootstrap-amazon-clone1
+#📌 Amazon Clone – Frontend Description
 
-hell world
+**This project is the frontend implementation of an Amazon Clone, designed to replicate the user interface and user experience of a real-world e-commerce platform.**
