@@ -10,4 +10,4 @@
 • Contact Page
 
 Home Page 📷
-![Alt text](Home1.png)
+![Alt text](Home1.png.png)
